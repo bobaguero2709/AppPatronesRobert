@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ABD5751A-1AE8-4E61-8381-7CAFFFA52423"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE6C6C03-7BE5-49F5-A1CF-F21A1BA2497C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppPatronesRobert/Presentation/Views/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "onLoginButtonTap(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FE6C6C03-7BE5-49F5-A1CF-F21A1BA2497C - 5db5049ffc413ed0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppPatronesRobert.LoginViewController.onLoginButtonTap(Any) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Presentation/Views/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "FE6C6C03-7BE5-49F5-A1CF-F21A1BA2497C - 5db5049ffc413ed0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppPatronesRobert.LoginViewController.onLoginButtonTap(Any) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Presentation/Views/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "340">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "849BB50C-79E0-400C-B3F1-35CF3D4118D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppPatronesRobert/Presentation/Views/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "setObservers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "849BB50C-79E0-400C-B3F1-35CF3D4118D1 - dca30f11bf9d5679"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (AppPatronesRobert.LoginStatusLoad) -&gt; () in AppPatronesRobert.LoginViewController.setObservers() -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Presentation/Views/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1080">
+               </Location>
+               <Location
+                  uuid = "849BB50C-79E0-400C-B3F1-35CF3D4118D1 - dca30f11bf9d5679"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (AppPatronesRobert.LoginStatusLoad) -&gt; () in AppPatronesRobert.LoginViewController.setObservers() -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Presentation/Views/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1000">
+               </Location>
+               <Location
+                  uuid = "849BB50C-79E0-400C-B3F1-35CF3D4118D1 - dca30f11bf9d5679"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (AppPatronesRobert.LoginStatusLoad) -&gt; () in AppPatronesRobert.LoginViewController.setObservers() -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Presentation/Views/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1028">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D477DBF3-DD62-460B-AB9D-40F51B583CB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppPatronesRobert/Presentation/Views/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "navigateToHome()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D477DBF3-DD62-460B-AB9D-40F51B583CB1 - fa539bff92f139b9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppPatronesRobert.LoginViewController.navigateToHome() -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Presentation/Views/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "D477DBF3-DD62-460B-AB9D-40F51B583CB1 - fa539bff92f13998"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppPatronesRobert.LoginViewController.navigateToHome() -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Presentation/Views/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "D477DBF3-DD62-460B-AB9D-40F51B583CB1 - fa539bff92f13998"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppPatronesRobert.LoginViewController.navigateToHome() -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Presentation/Views/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F1B2CF0-3EED-4F60-A904-3C57ADDB9E28"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppPatronesRobert/Presentation/ViewModels/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "onLoginButton(email:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3F1B2CF0-3EED-4F60-A904-3C57ADDB9E28 - 301290fbc82f3cee"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppPatronesRobert.LoginViewModel.onLoginButton(email: Swift.Optional&lt;Swift.String&gt;, password: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Presentation/ViewModels/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "620">
+               </Location>
+               <Location
+                  uuid = "3F1B2CF0-3EED-4F60-A904-3C57ADDB9E28 - 301290fbc82f3cee"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppPatronesRobert.LoginViewModel.onLoginButton(email: Swift.Optional&lt;Swift.String&gt;, password: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Presentation/ViewModels/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "3F1B2CF0-3EED-4F60-A904-3C57ADDB9E28 - 301290fbc82f3cee"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppPatronesRobert.LoginViewModel.onLoginButton(email: Swift.Optional&lt;Swift.String&gt;, password: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Presentation/ViewModels/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1D74DF9-B3B1-4D5F-A83B-8E0A4E2C1A91"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppPatronesRobert/Presentation/ViewModels/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "onLoginButton(email:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A1D74DF9-B3B1-4D5F-A83B-8E0A4E2C1A91 - 301290fbc82f3c14"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppPatronesRobert.LoginViewModel.onLoginButton(email: Swift.Optional&lt;Swift.String&gt;, password: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Presentation/ViewModels/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "A1D74DF9-B3B1-4D5F-A83B-8E0A4E2C1A91 - 301290fbc82f3c35"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppPatronesRobert.LoginViewModel.onLoginButton(email: Swift.Optional&lt;Swift.String&gt;, password: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Presentation/ViewModels/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "A1D74DF9-B3B1-4D5F-A83B-8E0A4E2C1A91 - 301290fbc82f3c35"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppPatronesRobert.LoginViewModel.onLoginButton(email: Swift.Optional&lt;Swift.String&gt;, password: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Presentation/ViewModels/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B182D559-A5BD-4480-B2EA-C9EF73FF42D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppPatronesRobert/Domain/UseCases/HomeUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "getHeroes(onSuccess:onError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B182D559-A5BD-4480-B2EA-C9EF73FF42D6 - 24591bab489101dd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppPatronesRobert.HomeUseCase.getHeroes(onSuccess: (Swift.Array&lt;AppPatronesRobert.HeroModel&gt;) -&gt; (), onError: (AppPatronesRobert.NetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Domain/UseCases/HomeUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "1616">
+               </Location>
+               <Location
+                  uuid = "B182D559-A5BD-4480-B2EA-C9EF73FF42D6 - 276d8338a59cb063"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AppPatronesRobert.HomeUseCase.getHeroes(onSuccess: (Swift.Array&lt;AppPatronesRobert.HeroModel&gt;) -&gt; (), onError: (AppPatronesRobert.NetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Domain/UseCases/HomeUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B0BAE80-71B9-45D1-ABA0-9E74852560A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppPatronesRobert/Domain/UseCases/HomeUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "getHeroes(onSuccess:onError:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F788A747-6465-47CC-B7A5-310519645FE2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppPatronesRobert/Presentation/Views/Home/HomeTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE102B09-E796-4B53-BF1B-A037C62530A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppPatronesRobert/Presentation/Views/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "navigateToHome()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4AA1AFE9-83C5-489B-A19E-8BF75036B32C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppPatronesRobert/Presentation/Views/Home/HomeTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E235B762-6DCE-4AB9-B66B-437A8006953F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppPatronesRobert/Presentation/Views/DetailHero/DetailHeroViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D1D2CBC-2852-4886-90B8-EE46D455BD20"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppPatronesRobert/Domain/UseCases/DetailHeroUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getHero(heroName:onSuccess:onError:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0894934F-E987-4294-BB87-467B1F9085E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppPatronesRobert/Domain/UseCases/DetailHeroUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "getHero(heroName:onSuccess:onError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0894934F-E987-4294-BB87-467B1F9085E4 - 610bd268445cb2b3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppPatronesRobert.DetailHeroUseCase.getHero(heroName: Swift.String, onSuccess: (AppPatronesRobert.HeroModel) -&gt; (), onError: (AppPatronesRobert.NetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Domain/UseCases/DetailHeroUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "1640">
+               </Location>
+               <Location
+                  uuid = "0894934F-E987-4294-BB87-467B1F9085E4 - 49b767993b33f7d8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AppPatronesRobert.DetailHeroUseCase.getHero(heroName: Swift.String, onSuccess: (AppPatronesRobert.HeroModel) -&gt; (), onError: (AppPatronesRobert.NetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Domain/UseCases/DetailHeroUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "0894934F-E987-4294-BB87-467B1F9085E4 - 610bd268445cb32e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppPatronesRobert.DetailHeroUseCase.getHero(heroName: Swift.String, onSuccess: (AppPatronesRobert.HeroModel) -&gt; (), onError: (AppPatronesRobert.NetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Domain/UseCases/DetailHeroUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "2000">
+               </Location>
+               <Location
+                  uuid = "0894934F-E987-4294-BB87-467B1F9085E4 - 49b767993b33f645"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AppPatronesRobert.DetailHeroUseCase.getHero(heroName: Swift.String, onSuccess: (AppPatronesRobert.HeroModel) -&gt; (), onError: (AppPatronesRobert.NetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Domain/UseCases/DetailHeroUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "0894934F-E987-4294-BB87-467B1F9085E4 - 3759c4d4ed5fd381"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppPatronesRobert.DetailHeroUseCase.getHero(heroName: Swift.String, onSuccess: (Swift.Array&lt;AppPatronesRobert.HeroModel&gt;) -&gt; (), onError: (AppPatronesRobert.NetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Domain/UseCases/DetailHeroUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "2464">
+               </Location>
+               <Location
+                  uuid = "0894934F-E987-4294-BB87-467B1F9085E4 - ef02f872dd3e502"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AppPatronesRobert.DetailHeroUseCase.getHero(heroName: Swift.String, onSuccess: (Swift.Array&lt;AppPatronesRobert.HeroModel&gt;) -&gt; (), onError: (AppPatronesRobert.NetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Domain/UseCases/DetailHeroUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "0894934F-E987-4294-BB87-467B1F9085E4 - 3759c4d4ed5fd260"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppPatronesRobert.DetailHeroUseCase.getHero(heroName: Swift.String, onSuccess: (Swift.Array&lt;AppPatronesRobert.HeroModel&gt;) -&gt; (), onError: (AppPatronesRobert.NetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Domain/UseCases/DetailHeroUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "2000">
+               </Location>
+               <Location
+                  uuid = "0894934F-E987-4294-BB87-467B1F9085E4 - ef02f872dd3e4e3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AppPatronesRobert.DetailHeroUseCase.getHero(heroName: Swift.String, onSuccess: (Swift.Array&lt;AppPatronesRobert.HeroModel&gt;) -&gt; (), onError: (AppPatronesRobert.NetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Domain/UseCases/DetailHeroUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "0894934F-E987-4294-BB87-467B1F9085E4 - 3759c4d4ed5fd260"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppPatronesRobert.DetailHeroUseCase.getHero(heroName: Swift.String, onSuccess: (Swift.Array&lt;AppPatronesRobert.HeroModel&gt;) -&gt; (), onError: (AppPatronesRobert.NetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Domain/UseCases/DetailHeroUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1912">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A38FEC82-FE54-40FE-8496-81462646E345"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppPatronesRobert/Domain/UseCases/DetailHeroUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "getHero(heroName:onSuccess:onError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A38FEC82-FE54-40FE-8496-81462646E345 - 49b767993b33f18e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AppPatronesRobert.DetailHeroUseCase.getHero(heroName: Swift.String, onSuccess: (AppPatronesRobert.HeroModel) -&gt; (), onError: (AppPatronesRobert.NetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Domain/UseCases/DetailHeroUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "700">
+               </Location>
+               <Location
+                  uuid = "A38FEC82-FE54-40FE-8496-81462646E345 - 49b767993b33f1eb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AppPatronesRobert.DetailHeroUseCase.getHero(heroName: Swift.String, onSuccess: (AppPatronesRobert.HeroModel) -&gt; (), onError: (AppPatronesRobert.NetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Domain/UseCases/DetailHeroUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "700">
+               </Location>
+               <Location
+                  uuid = "A38FEC82-FE54-40FE-8496-81462646E345 - ef02f872dd3e312"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AppPatronesRobert.DetailHeroUseCase.getHero(heroName: Swift.String, onSuccess: (Swift.Array&lt;AppPatronesRobert.HeroModel&gt;) -&gt; (), onError: (AppPatronesRobert.NetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "AppPatronesRobert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bobaguero/Documents/AppPatronesRobert/AppPatronesRobert/AppPatronesRobert/Domain/UseCases/DetailHeroUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "676">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11E75B60-473C-4186-AD6C-AA5F3C454273"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppPatronesRobert/Domain/UseCases/DetailHeroUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getHero(heroName:onSuccess:onError:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D617D8F7-E76A-4778-A1E2-CACE73B1C260"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppPatronesRobert/Presentation/Views/DetailHero/DetailHeroViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "didTapTransformationButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "625463E5-D80D-4E39-B73F-BEB17EFFE80E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppPatronesRobert/Domain/UseCases/TransformationsUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getTransformations(id:onSuccess:onError:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -7,19 +7,90 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B6895222B664C9B003553DB /* LoginUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895212B664C9B003553DB /* LoginUseCase.swift */; };
+		0B6895252B664D31003553DB /* EndPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895242B664D31003553DB /* EndPoints.swift */; };
+		0B6895272B664DCA003553DB /* NetworkError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895262B664DCA003553DB /* NetworkError.swift */; };
+		0B6895292B664E52003553DB /* HTTPMethods.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895282B664E52003553DB /* HTTPMethods.swift */; };
+		0B68952B2B664EAB003553DB /* HTTPResponseCodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B68952A2B664EAB003553DB /* HTTPResponseCodes.swift */; };
+		0B68952D2B66620A003553DB /* HomeUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B68952C2B66620A003553DB /* HomeUseCase.swift */; };
+		0B68952E2B66620A003553DB /* HomeUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B68952C2B66620A003553DB /* HomeUseCase.swift */; };
+		0B68952F2B66620A003553DB /* HomeUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B68952C2B66620A003553DB /* HomeUseCase.swift */; };
+		0B6895312B666294003553DB /* HeroModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895302B666294003553DB /* HeroModel.swift */; };
+		0B6895322B666294003553DB /* HeroModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895302B666294003553DB /* HeroModel.swift */; };
+		0B6895332B666294003553DB /* HeroModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895302B666294003553DB /* HeroModel.swift */; };
+		0B6895352B6663F1003553DB /* HTTPConfigurations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895342B6663F1003553DB /* HTTPConfigurations.swift */; };
+		0B6895362B6663F1003553DB /* HTTPConfigurations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895342B6663F1003553DB /* HTTPConfigurations.swift */; };
+		0B6895372B6663F1003553DB /* HTTPConfigurations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895342B6663F1003553DB /* HTTPConfigurations.swift */; };
+		0B6895392B666885003553DB /* UserDefaultsHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895382B666885003553DB /* UserDefaultsHelper.swift */; };
+		0B68953A2B666885003553DB /* UserDefaultsHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895382B666885003553DB /* UserDefaultsHelper.swift */; };
+		0B68953B2B666885003553DB /* UserDefaultsHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895382B666885003553DB /* UserDefaultsHelper.swift */; };
+		0B68953E2B666A59003553DB /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B68953D2B666A59003553DB /* HomeViewModel.swift */; };
+		0B68953F2B666A59003553DB /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B68953D2B666A59003553DB /* HomeViewModel.swift */; };
+		0B6895402B666A59003553DB /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B68953D2B666A59003553DB /* HomeViewModel.swift */; };
+		0B6895422B666AC2003553DB /* HomeStatusLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895412B666AC2003553DB /* HomeStatusLoad.swift */; };
+		0B6895432B666AC2003553DB /* HomeStatusLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895412B666AC2003553DB /* HomeStatusLoad.swift */; };
+		0B6895442B666AC2003553DB /* HomeStatusLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895412B666AC2003553DB /* HomeStatusLoad.swift */; };
+		0B6895482B667CA7003553DB /* DetailHeroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895462B667CA7003553DB /* DetailHeroViewController.swift */; };
+		0B6895492B667CA7003553DB /* DetailHeroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895462B667CA7003553DB /* DetailHeroViewController.swift */; };
+		0B68954A2B667CA7003553DB /* DetailHeroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895462B667CA7003553DB /* DetailHeroViewController.swift */; };
+		0B68954B2B667CA7003553DB /* DetailHeroViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B6895472B667CA7003553DB /* DetailHeroViewController.xib */; };
+		0B68954C2B667CA7003553DB /* DetailHeroViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B6895472B667CA7003553DB /* DetailHeroViewController.xib */; };
+		0B68954D2B667CA7003553DB /* DetailHeroViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B6895472B667CA7003553DB /* DetailHeroViewController.xib */; };
+		0B6895582B6693A6003553DB /* DetailHeroViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895572B6693A6003553DB /* DetailHeroViewModel.swift */; };
+		0B6895592B6693A6003553DB /* DetailHeroViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895572B6693A6003553DB /* DetailHeroViewModel.swift */; };
+		0B68955A2B6693A6003553DB /* DetailHeroViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895572B6693A6003553DB /* DetailHeroViewModel.swift */; };
+		0B68955C2B6693D1003553DB /* DetailHeroStatusLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B68955B2B6693D1003553DB /* DetailHeroStatusLoad.swift */; };
+		0B68955D2B6693D1003553DB /* DetailHeroStatusLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B68955B2B6693D1003553DB /* DetailHeroStatusLoad.swift */; };
+		0B68955E2B6693D1003553DB /* DetailHeroStatusLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B68955B2B6693D1003553DB /* DetailHeroStatusLoad.swift */; };
+		0B6895602B6693FA003553DB /* DetailHeroUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B68955F2B6693FA003553DB /* DetailHeroUseCase.swift */; };
+		0B6895612B6693FA003553DB /* DetailHeroUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B68955F2B6693FA003553DB /* DetailHeroUseCase.swift */; };
+		0B6895622B6693FA003553DB /* DetailHeroUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B68955F2B6693FA003553DB /* DetailHeroUseCase.swift */; };
+		0B6895652B66A6E6003553DB /* UImageView+Remote.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895642B66A6E6003553DB /* UImageView+Remote.swift */; };
+		0B6895672B66BAAF003553DB /* TransformationsStatusLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895662B66BAAF003553DB /* TransformationsStatusLoad.swift */; };
+		0B6895692B66BAD8003553DB /* TransformationsUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895682B66BAD8003553DB /* TransformationsUseCase.swift */; };
+		0B68956B2B66BBB6003553DB /* HeroTransformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B68956A2B66BBB6003553DB /* HeroTransformation.swift */; };
+		0B68956E2B66BC5D003553DB /* HeroTransformationsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B68956D2B66BC5D003553DB /* HeroTransformationsViewModel.swift */; };
+		0B6895722B66C234003553DB /* HeroTransformationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895702B66C234003553DB /* HeroTransformationsViewController.swift */; };
+		0B6895732B66C234003553DB /* HeroTransformationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895702B66C234003553DB /* HeroTransformationsViewController.swift */; };
+		0B6895742B66C234003553DB /* HeroTransformationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B6895702B66C234003553DB /* HeroTransformationsViewController.swift */; };
+		0B6895752B66C234003553DB /* HeroTransformationsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B6895712B66C234003553DB /* HeroTransformationsViewController.xib */; };
+		0B6895762B66C234003553DB /* HeroTransformationsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B6895712B66C234003553DB /* HeroTransformationsViewController.xib */; };
+		0B6895772B66C234003553DB /* HeroTransformationsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B6895712B66C234003553DB /* HeroTransformationsViewController.xib */; };
 		0B70D7DF2B601FE000AA6375 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D7DE2B601FE000AA6375 /* AppDelegate.swift */; };
 		0B70D7E12B601FE000AA6375 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D7E02B601FE000AA6375 /* SceneDelegate.swift */; };
 		0B70D7E82B601FE100AA6375 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B70D7E72B601FE100AA6375 /* Assets.xcassets */; };
 		0B70D7EB2B601FE100AA6375 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B70D7E92B601FE100AA6375 /* LaunchScreen.storyboard */; };
 		0B70D7F62B601FE100AA6375 /* AppPatronesRobertTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D7F52B601FE100AA6375 /* AppPatronesRobertTests.swift */; };
-		0B70D8002B601FE100AA6375 /* AppPatronesRobertUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D7FF2B601FE100AA6375 /* AppPatronesRobertUITests.swift */; };
-		0B70D8022B601FE100AA6375 /* AppPatronesRobertUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D8012B601FE100AA6375 /* AppPatronesRobertUITestsLaunchTests.swift */; };
 		0B70D81D2B60224D00AA6375 /* SplashViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D81B2B60224D00AA6375 /* SplashViewController.swift */; };
 		0B70D81E2B60224D00AA6375 /* SplashViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D81B2B60224D00AA6375 /* SplashViewController.swift */; };
 		0B70D81F2B60224D00AA6375 /* SplashViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D81B2B60224D00AA6375 /* SplashViewController.swift */; };
 		0B70D8202B60224D00AA6375 /* SplashViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B70D81C2B60224D00AA6375 /* SplashViewController.xib */; };
 		0B70D8212B60224D00AA6375 /* SplashViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B70D81C2B60224D00AA6375 /* SplashViewController.xib */; };
 		0B70D8222B60224D00AA6375 /* SplashViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B70D81C2B60224D00AA6375 /* SplashViewController.xib */; };
+		0B70D8252B60281300AA6375 /* SplashViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D8242B60281300AA6375 /* SplashViewModel.swift */; };
+		0B70D8262B60281300AA6375 /* SplashViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D8242B60281300AA6375 /* SplashViewModel.swift */; };
+		0B70D8272B60281300AA6375 /* SplashViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D8242B60281300AA6375 /* SplashViewModel.swift */; };
+		0B70D8292B602CD100AA6375 /* SplashStatusLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D8282B602CD100AA6375 /* SplashStatusLoad.swift */; };
+		0B70D82A2B602CD100AA6375 /* SplashStatusLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D8282B602CD100AA6375 /* SplashStatusLoad.swift */; };
+		0B70D82B2B602CD100AA6375 /* SplashStatusLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D8282B602CD100AA6375 /* SplashStatusLoad.swift */; };
+		0B70D82F2B60308400AA6375 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D82D2B60308400AA6375 /* LoginViewController.swift */; };
+		0B70D8302B60308400AA6375 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D82D2B60308400AA6375 /* LoginViewController.swift */; };
+		0B70D8312B60308400AA6375 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D82D2B60308400AA6375 /* LoginViewController.swift */; };
+		0B70D8322B60308400AA6375 /* LoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B70D82E2B60308400AA6375 /* LoginViewController.xib */; };
+		0B70D8332B60308400AA6375 /* LoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B70D82E2B60308400AA6375 /* LoginViewController.xib */; };
+		0B70D8342B60308400AA6375 /* LoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B70D82E2B60308400AA6375 /* LoginViewController.xib */; };
+		0B70D8372B61643000AA6375 /* LoginViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D8362B61643000AA6375 /* LoginViewModel.swift */; };
+		0B70D8382B61643000AA6375 /* LoginViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D8362B61643000AA6375 /* LoginViewModel.swift */; };
+		0B70D8392B61643000AA6375 /* LoginViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D8362B61643000AA6375 /* LoginViewModel.swift */; };
+		0B70D83B2B61656C00AA6375 /* LoginStatusLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D83A2B61656C00AA6375 /* LoginStatusLoad.swift */; };
+		0B70D83C2B61656C00AA6375 /* LoginStatusLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D83A2B61656C00AA6375 /* LoginStatusLoad.swift */; };
+		0B70D83D2B61656C00AA6375 /* LoginStatusLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D83A2B61656C00AA6375 /* LoginStatusLoad.swift */; };
+		0B70D8412B61697D00AA6375 /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D83F2B61697D00AA6375 /* HomeTableViewController.swift */; };
+		0B70D8422B61697D00AA6375 /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D83F2B61697D00AA6375 /* HomeTableViewController.swift */; };
+		0B70D8432B61697D00AA6375 /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B70D83F2B61697D00AA6375 /* HomeTableViewController.swift */; };
+		0B70D8442B61697D00AA6375 /* HomeTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B70D8402B61697D00AA6375 /* HomeTableViewController.xib */; };
+		0B70D8452B61697D00AA6375 /* HomeTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B70D8402B61697D00AA6375 /* HomeTableViewController.xib */; };
+		0B70D8462B61697D00AA6375 /* HomeTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B70D8402B61697D00AA6375 /* HomeTableViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +111,29 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0B6895212B664C9B003553DB /* LoginUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginUseCase.swift; sourceTree = "<group>"; };
+		0B6895242B664D31003553DB /* EndPoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EndPoints.swift; sourceTree = "<group>"; };
+		0B6895262B664DCA003553DB /* NetworkError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkError.swift; sourceTree = "<group>"; };
+		0B6895282B664E52003553DB /* HTTPMethods.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPMethods.swift; sourceTree = "<group>"; };
+		0B68952A2B664EAB003553DB /* HTTPResponseCodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPResponseCodes.swift; sourceTree = "<group>"; };
+		0B68952C2B66620A003553DB /* HomeUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeUseCase.swift; sourceTree = "<group>"; };
+		0B6895302B666294003553DB /* HeroModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroModel.swift; sourceTree = "<group>"; };
+		0B6895342B6663F1003553DB /* HTTPConfigurations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPConfigurations.swift; sourceTree = "<group>"; };
+		0B6895382B666885003553DB /* UserDefaultsHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultsHelper.swift; sourceTree = "<group>"; };
+		0B68953D2B666A59003553DB /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+		0B6895412B666AC2003553DB /* HomeStatusLoad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeStatusLoad.swift; sourceTree = "<group>"; };
+		0B6895462B667CA7003553DB /* DetailHeroViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailHeroViewController.swift; sourceTree = "<group>"; };
+		0B6895472B667CA7003553DB /* DetailHeroViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DetailHeroViewController.xib; sourceTree = "<group>"; };
+		0B6895572B6693A6003553DB /* DetailHeroViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailHeroViewModel.swift; sourceTree = "<group>"; };
+		0B68955B2B6693D1003553DB /* DetailHeroStatusLoad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailHeroStatusLoad.swift; sourceTree = "<group>"; };
+		0B68955F2B6693FA003553DB /* DetailHeroUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailHeroUseCase.swift; sourceTree = "<group>"; };
+		0B6895642B66A6E6003553DB /* UImageView+Remote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UImageView+Remote.swift"; sourceTree = "<group>"; };
+		0B6895662B66BAAF003553DB /* TransformationsStatusLoad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransformationsStatusLoad.swift; sourceTree = "<group>"; };
+		0B6895682B66BAD8003553DB /* TransformationsUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransformationsUseCase.swift; sourceTree = "<group>"; };
+		0B68956A2B66BBB6003553DB /* HeroTransformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroTransformation.swift; sourceTree = "<group>"; };
+		0B68956D2B66BC5D003553DB /* HeroTransformationsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroTransformationsViewModel.swift; sourceTree = "<group>"; };
+		0B6895702B66C234003553DB /* HeroTransformationsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroTransformationsViewController.swift; sourceTree = "<group>"; };
+		0B6895712B66C234003553DB /* HeroTransformationsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HeroTransformationsViewController.xib; sourceTree = "<group>"; };
 		0B70D7DB2B601FE000AA6375 /* AppPatronesRobert.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppPatronesRobert.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B70D7DE2B601FE000AA6375 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0B70D7E02B601FE000AA6375 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,10 +143,16 @@
 		0B70D7F12B601FE100AA6375 /* AppPatronesRobertTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppPatronesRobertTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B70D7F52B601FE100AA6375 /* AppPatronesRobertTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppPatronesRobertTests.swift; sourceTree = "<group>"; };
 		0B70D7FB2B601FE100AA6375 /* AppPatronesRobertUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppPatronesRobertUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		0B70D7FF2B601FE100AA6375 /* AppPatronesRobertUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppPatronesRobertUITests.swift; sourceTree = "<group>"; };
-		0B70D8012B601FE100AA6375 /* AppPatronesRobertUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppPatronesRobertUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		0B70D81B2B60224D00AA6375 /* SplashViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashViewController.swift; sourceTree = "<group>"; };
 		0B70D81C2B60224D00AA6375 /* SplashViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SplashViewController.xib; sourceTree = "<group>"; };
+		0B70D8242B60281300AA6375 /* SplashViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashViewModel.swift; sourceTree = "<group>"; };
+		0B70D8282B602CD100AA6375 /* SplashStatusLoad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashStatusLoad.swift; sourceTree = "<group>"; };
+		0B70D82D2B60308400AA6375 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		0B70D82E2B60308400AA6375 /* LoginViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoginViewController.xib; sourceTree = "<group>"; };
+		0B70D8362B61643000AA6375 /* LoginViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewModel.swift; sourceTree = "<group>"; };
+		0B70D83A2B61656C00AA6375 /* LoginStatusLoad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginStatusLoad.swift; sourceTree = "<group>"; };
+		0B70D83F2B61697D00AA6375 /* HomeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewController.swift; sourceTree = "<group>"; };
+		0B70D8402B61697D00AA6375 /* HomeTableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomeTableViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,12 +180,73 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0B6895232B664D1E003553DB /* BaseNetwork */ = {
+			isa = PBXGroup;
+			children = (
+				0B6895242B664D31003553DB /* EndPoints.swift */,
+				0B6895262B664DCA003553DB /* NetworkError.swift */,
+				0B6895282B664E52003553DB /* HTTPMethods.swift */,
+				0B68952A2B664EAB003553DB /* HTTPResponseCodes.swift */,
+				0B6895342B6663F1003553DB /* HTTPConfigurations.swift */,
+			);
+			path = BaseNetwork;
+			sourceTree = "<group>";
+		};
+		0B68953C2B666A40003553DB /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				0B68953D2B666A59003553DB /* HomeViewModel.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		0B6895452B667C85003553DB /* DetailHero */ = {
+			isa = PBXGroup;
+			children = (
+				0B6895462B667CA7003553DB /* DetailHeroViewController.swift */,
+				0B6895472B667CA7003553DB /* DetailHeroViewController.xib */,
+			);
+			path = DetailHero;
+			sourceTree = "<group>";
+		};
+		0B68954E2B669356003553DB /* DetailHero */ = {
+			isa = PBXGroup;
+			children = (
+				0B6895572B6693A6003553DB /* DetailHeroViewModel.swift */,
+			);
+			path = DetailHero;
+			sourceTree = "<group>";
+		};
+		0B6895632B66A6C4003553DB /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				0B6895642B66A6E6003553DB /* UImageView+Remote.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		0B68956C2B66BC38003553DB /* HeroTransformations */ = {
+			isa = PBXGroup;
+			children = (
+				0B68956D2B66BC5D003553DB /* HeroTransformationsViewModel.swift */,
+			);
+			path = HeroTransformations;
+			sourceTree = "<group>";
+		};
+		0B68956F2B66C1FE003553DB /* HeroTransformations */ = {
+			isa = PBXGroup;
+			children = (
+				0B6895702B66C234003553DB /* HeroTransformationsViewController.swift */,
+				0B6895712B66C234003553DB /* HeroTransformationsViewController.xib */,
+			);
+			path = HeroTransformations;
+			sourceTree = "<group>";
+		};
 		0B70D7D22B601FE000AA6375 = {
 			isa = PBXGroup;
 			children = (
 				0B70D7DD2B601FE000AA6375 /* AppPatronesRobert */,
 				0B70D7F42B601FE100AA6375 /* AppPatronesRobertTests */,
-				0B70D7FE2B601FE100AA6375 /* AppPatronesRobertUITests */,
 				0B70D7DC2B601FE000AA6375 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -123,15 +284,6 @@
 			path = AppPatronesRobertTests;
 			sourceTree = "<group>";
 		};
-		0B70D7FE2B601FE100AA6375 /* AppPatronesRobertUITests */ = {
-			isa = PBXGroup;
-			children = (
-				0B70D7FF2B601FE100AA6375 /* AppPatronesRobertUITests.swift */,
-				0B70D8012B601FE100AA6375 /* AppPatronesRobertUITestsLaunchTests.swift */,
-			);
-			path = AppPatronesRobertUITests;
-			sourceTree = "<group>";
-		};
 		0B70D80E2B60213800AA6375 /* Data */ = {
 			isa = PBXGroup;
 			children = (
@@ -154,7 +306,8 @@
 		0B70D8122B60215B00AA6375 /* Presentation */ = {
 			isa = PBXGroup;
 			children = (
-				0B70D8142B6021A300AA6375 /* ViewModel */,
+				0B6895632B66A6C4003553DB /* Extensions */,
+				0B70D8142B6021A300AA6375 /* ViewModels */,
 				0B70D8132B60219C00AA6375 /* Views */,
 			);
 			path = Presentation;
@@ -163,21 +316,37 @@
 		0B70D8132B60219C00AA6375 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				0B68956F2B66C1FE003553DB /* HeroTransformations */,
+				0B6895452B667C85003553DB /* DetailHero */,
+				0B70D83E2B61695900AA6375 /* Home */,
+				0B70D82C2B60306F00AA6375 /* Login */,
 				0B70D81A2B60222600AA6375 /* Splash */,
 			);
 			path = Views;
 			sourceTree = "<group>";
 		};
-		0B70D8142B6021A300AA6375 /* ViewModel */ = {
+		0B70D8142B6021A300AA6375 /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				0B68956C2B66BC38003553DB /* HeroTransformations */,
+				0B68954E2B669356003553DB /* DetailHero */,
+				0B68953C2B666A40003553DB /* Home */,
+				0B70D8352B61641F00AA6375 /* Login */,
+				0B70D8232B6027C800AA6375 /* Splash */,
 			);
-			path = ViewModel;
+			path = ViewModels;
 			sourceTree = "<group>";
 		};
 		0B70D8152B6021A900AA6375 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				0B70D8282B602CD100AA6375 /* SplashStatusLoad.swift */,
+				0B70D83A2B61656C00AA6375 /* LoginStatusLoad.swift */,
+				0B6895302B666294003553DB /* HeroModel.swift */,
+				0B6895412B666AC2003553DB /* HomeStatusLoad.swift */,
+				0B68955B2B6693D1003553DB /* DetailHeroStatusLoad.swift */,
+				0B6895662B66BAAF003553DB /* TransformationsStatusLoad.swift */,
+				0B68956A2B66BBB6003553DB /* HeroTransformation.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -185,6 +354,10 @@
 		0B70D8162B6021BB00AA6375 /* UseCases */ = {
 			isa = PBXGroup;
 			children = (
+				0B6895212B664C9B003553DB /* LoginUseCase.swift */,
+				0B68952C2B66620A003553DB /* HomeUseCase.swift */,
+				0B68955F2B6693FA003553DB /* DetailHeroUseCase.swift */,
+				0B6895682B66BAD8003553DB /* TransformationsUseCase.swift */,
 			);
 			path = UseCases;
 			sourceTree = "<group>";
@@ -199,6 +372,7 @@
 		0B70D8182B6021C900AA6375 /* Network */ = {
 			isa = PBXGroup;
 			children = (
+				0B6895232B664D1E003553DB /* BaseNetwork */,
 			);
 			path = Network;
 			sourceTree = "<group>";
@@ -206,6 +380,7 @@
 		0B70D8192B6021D100AA6375 /* Local */ = {
 			isa = PBXGroup;
 			children = (
+				0B6895382B666885003553DB /* UserDefaultsHelper.swift */,
 			);
 			path = Local;
 			sourceTree = "<group>";
@@ -217,6 +392,40 @@
 				0B70D81C2B60224D00AA6375 /* SplashViewController.xib */,
 			);
 			path = Splash;
+			sourceTree = "<group>";
+		};
+		0B70D8232B6027C800AA6375 /* Splash */ = {
+			isa = PBXGroup;
+			children = (
+				0B70D8242B60281300AA6375 /* SplashViewModel.swift */,
+			);
+			path = Splash;
+			sourceTree = "<group>";
+		};
+		0B70D82C2B60306F00AA6375 /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				0B70D82D2B60308400AA6375 /* LoginViewController.swift */,
+				0B70D82E2B60308400AA6375 /* LoginViewController.xib */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		0B70D8352B61641F00AA6375 /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				0B70D8362B61643000AA6375 /* LoginViewModel.swift */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		0B70D83E2B61695900AA6375 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				0B70D83F2B61697D00AA6375 /* HomeTableViewController.swift */,
+				0B70D8402B61697D00AA6375 /* HomeTableViewController.xib */,
+			);
+			path = Home;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -323,7 +532,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B70D8442B61697D00AA6375 /* HomeTableViewController.xib in Resources */,
+				0B70D8322B60308400AA6375 /* LoginViewController.xib in Resources */,
 				0B70D7EB2B601FE100AA6375 /* LaunchScreen.storyboard in Resources */,
+				0B6895752B66C234003553DB /* HeroTransformationsViewController.xib in Resources */,
+				0B68954B2B667CA7003553DB /* DetailHeroViewController.xib in Resources */,
 				0B70D8202B60224D00AA6375 /* SplashViewController.xib in Resources */,
 				0B70D7E82B601FE100AA6375 /* Assets.xcassets in Resources */,
 			);
@@ -333,6 +546,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B6895762B66C234003553DB /* HeroTransformationsViewController.xib in Resources */,
+				0B70D8332B60308400AA6375 /* LoginViewController.xib in Resources */,
+				0B68954C2B667CA7003553DB /* DetailHeroViewController.xib in Resources */,
+				0B70D8452B61697D00AA6375 /* HomeTableViewController.xib in Resources */,
 				0B70D8212B60224D00AA6375 /* SplashViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -341,6 +558,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B6895772B66C234003553DB /* HeroTransformationsViewController.xib in Resources */,
+				0B70D8342B60308400AA6375 /* LoginViewController.xib in Resources */,
+				0B68954D2B667CA7003553DB /* DetailHeroViewController.xib in Resources */,
+				0B70D8462B61697D00AA6375 /* HomeTableViewController.xib in Resources */,
 				0B70D8222B60224D00AA6375 /* SplashViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -352,9 +573,36 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B68953E2B666A59003553DB /* HomeViewModel.swift in Sources */,
+				0B6895392B666885003553DB /* UserDefaultsHelper.swift in Sources */,
+				0B6895652B66A6E6003553DB /* UImageView+Remote.swift in Sources */,
+				0B70D82F2B60308400AA6375 /* LoginViewController.swift in Sources */,
+				0B68955C2B6693D1003553DB /* DetailHeroStatusLoad.swift in Sources */,
+				0B6895722B66C234003553DB /* HeroTransformationsViewController.swift in Sources */,
 				0B70D81D2B60224D00AA6375 /* SplashViewController.swift in Sources */,
+				0B6895672B66BAAF003553DB /* TransformationsStatusLoad.swift in Sources */,
 				0B70D7DF2B601FE000AA6375 /* AppDelegate.swift in Sources */,
 				0B70D7E12B601FE000AA6375 /* SceneDelegate.swift in Sources */,
+				0B70D8252B60281300AA6375 /* SplashViewModel.swift in Sources */,
+				0B6895582B6693A6003553DB /* DetailHeroViewModel.swift in Sources */,
+				0B70D83B2B61656C00AA6375 /* LoginStatusLoad.swift in Sources */,
+				0B6895422B666AC2003553DB /* HomeStatusLoad.swift in Sources */,
+				0B6895292B664E52003553DB /* HTTPMethods.swift in Sources */,
+				0B6895602B6693FA003553DB /* DetailHeroUseCase.swift in Sources */,
+				0B68952B2B664EAB003553DB /* HTTPResponseCodes.swift in Sources */,
+				0B70D8412B61697D00AA6375 /* HomeTableViewController.swift in Sources */,
+				0B6895312B666294003553DB /* HeroModel.swift in Sources */,
+				0B68952D2B66620A003553DB /* HomeUseCase.swift in Sources */,
+				0B6895352B6663F1003553DB /* HTTPConfigurations.swift in Sources */,
+				0B68956B2B66BBB6003553DB /* HeroTransformation.swift in Sources */,
+				0B70D8292B602CD100AA6375 /* SplashStatusLoad.swift in Sources */,
+				0B6895482B667CA7003553DB /* DetailHeroViewController.swift in Sources */,
+				0B70D8372B61643000AA6375 /* LoginViewModel.swift in Sources */,
+				0B6895272B664DCA003553DB /* NetworkError.swift in Sources */,
+				0B68956E2B66BC5D003553DB /* HeroTransformationsViewModel.swift in Sources */,
+				0B6895222B664C9B003553DB /* LoginUseCase.swift in Sources */,
+				0B6895252B664D31003553DB /* EndPoints.swift in Sources */,
+				0B6895692B66BAD8003553DB /* TransformationsUseCase.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -362,8 +610,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B68952E2B66620A003553DB /* HomeUseCase.swift in Sources */,
+				0B6895592B6693A6003553DB /* DetailHeroViewModel.swift in Sources */,
+				0B70D8422B61697D00AA6375 /* HomeTableViewController.swift in Sources */,
+				0B70D82A2B602CD100AA6375 /* SplashStatusLoad.swift in Sources */,
+				0B70D83C2B61656C00AA6375 /* LoginStatusLoad.swift in Sources */,
+				0B70D8262B60281300AA6375 /* SplashViewModel.swift in Sources */,
+				0B6895612B6693FA003553DB /* DetailHeroUseCase.swift in Sources */,
+				0B70D8382B61643000AA6375 /* LoginViewModel.swift in Sources */,
+				0B68955D2B6693D1003553DB /* DetailHeroStatusLoad.swift in Sources */,
+				0B6895432B666AC2003553DB /* HomeStatusLoad.swift in Sources */,
+				0B68953A2B666885003553DB /* UserDefaultsHelper.swift in Sources */,
 				0B70D7F62B601FE100AA6375 /* AppPatronesRobertTests.swift in Sources */,
+				0B68953F2B666A59003553DB /* HomeViewModel.swift in Sources */,
+				0B6895492B667CA7003553DB /* DetailHeroViewController.swift in Sources */,
+				0B6895362B6663F1003553DB /* HTTPConfigurations.swift in Sources */,
+				0B6895732B66C234003553DB /* HeroTransformationsViewController.swift in Sources */,
+				0B70D8302B60308400AA6375 /* LoginViewController.swift in Sources */,
 				0B70D81E2B60224D00AA6375 /* SplashViewController.swift in Sources */,
+				0B6895322B666294003553DB /* HeroModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -371,9 +636,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B68955E2B6693D1003553DB /* DetailHeroStatusLoad.swift in Sources */,
+				0B70D8312B60308400AA6375 /* LoginViewController.swift in Sources */,
+				0B68953B2B666885003553DB /* UserDefaultsHelper.swift in Sources */,
 				0B70D81F2B60224D00AA6375 /* SplashViewController.swift in Sources */,
-				0B70D8022B601FE100AA6375 /* AppPatronesRobertUITestsLaunchTests.swift in Sources */,
-				0B70D8002B601FE100AA6375 /* AppPatronesRobertUITests.swift in Sources */,
+				0B6895442B666AC2003553DB /* HomeStatusLoad.swift in Sources */,
+				0B6895742B66C234003553DB /* HeroTransformationsViewController.swift in Sources */,
+				0B6895372B6663F1003553DB /* HTTPConfigurations.swift in Sources */,
+				0B6895332B666294003553DB /* HeroModel.swift in Sources */,
+				0B6895622B6693FA003553DB /* DetailHeroUseCase.swift in Sources */,
+				0B68952F2B66620A003553DB /* HomeUseCase.swift in Sources */,
+				0B68954A2B667CA7003553DB /* DetailHeroViewController.swift in Sources */,
+				0B70D8272B60281300AA6375 /* SplashViewModel.swift in Sources */,
+				0B6895402B666A59003553DB /* HomeViewModel.swift in Sources */,
+				0B70D83D2B61656C00AA6375 /* LoginStatusLoad.swift in Sources */,
+				0B70D8432B61697D00AA6375 /* HomeTableViewController.swift in Sources */,
+				0B68955A2B6693A6003553DB /* DetailHeroViewModel.swift in Sources */,
+				0B70D82B2B602CD100AA6375 /* SplashStatusLoad.swift in Sources */,
+				0B70D8392B61643000AA6375 /* LoginViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
